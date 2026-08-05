@@ -42,6 +42,18 @@ Le Career Playbook repose sur des principes qui guident son évolution et garant
 
 ## Organisation du dépôt
 
+Le dépôt évolue de manière progressive afin d'accompagner le développement naturel du projet. Chaque nouveau dossier ou document est créé lorsqu'un besoin réel apparaît, conformément au principe d'amélioration continue.
+
+À ce stade, le dépôt contient uniquement les éléments nécessaires à son initialisation :
+
+```text
+CareerPlaybook/
+├── LICENSE
+└── README.md
+```
+
+L'organisation du dépôt évoluera progressivement avec le développement du projet. La documentation sera structurée autour d'un fichier `docs/README.md`, qui présentera l'arborescence documentaire et facilitera la navigation entre les différents documents.
+
 ## État du projet
 
 ## Philosophie
