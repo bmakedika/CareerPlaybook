@@ -20,6 +20,15 @@ Ce projet est également une manière d'appliquer à une carrière les principes
 
 ## Les objectifs
 
+Le Career Playbook poursuit plusieurs objectifs complémentaires :
+
+- Documenter de manière structurée l'évolution progressive de mon parcours professionnel.
+- Conserver une trace des décisions importantes et des enseignements qui en découlent.
+- Capitaliser sur les compétences développées, les expériences vécues et les projets réalisés.
+- Donner de la cohérence à l'ensemble de mon parcours en reliant les différentes étapes de ma progression.
+- Favoriser un apprentissage continu grâce à une démarche de réflexion, d'amélioration et de documentation.
+- Construire un référentiel durable qui accompagnera l'évolution de ma carrière tout au long de mon parcours professionnel.
+
 ## Les principes
 
 ## Organisation du dépôt
