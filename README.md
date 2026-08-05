@@ -12,6 +12,12 @@ Le Career Playbook applique à la gestion d'une carrière les principes utilisé
 
 ## Pourquoi ce projet existe
 
+Au fil de mon parcours, j'ai constaté qu'une carrière ne se construit pas uniquement par l'accumulation d'expériences ou de compétences. Elle se construit également par la capacité à comprendre ses choix, à tirer des enseignements de chaque projet et à maintenir une vision cohérente de son évolution professionnelle.
+
+Le Career Playbook est né de cette conviction. Il répond au besoin de disposer d'un espace unique permettant de documenter les décisions importantes, de capitaliser sur les apprentissages, de conserver une trace des réalisations et de structurer une progression professionnelle dans la durée.
+
+Ce projet est également une manière d'appliquer à une carrière les principes d'amélioration continue utilisés dans les projets d'ingénierie : observer, documenter, apprendre, ajuster et progresser.
+
 ## Les objectifs
 
 ## Les principes
