@@ -56,6 +56,14 @@ L'organisation du dépôt évoluera progressivement avec le développement du pr
 
 ## État du projet
 
+> 🚧 **Projet en cours de construction**
+
+Le Career Playbook est actuellement en phase de conception et de structuration. Son contenu est enrichi progressivement au fil des projets, des apprentissages, des réflexions et des décisions qui jalonnent mon parcours professionnel.
+
+Chaque évolution est documentée et suivie afin d'assurer la traçabilité des décisions et de garantir la cohérence du projet dans le temps.
+
+Le dépôt évolue selon une approche incrémentale, où chaque nouvelle contribution répond à un besoin identifié et s'intègre dans une vision globale de long terme.
+
 ## Philosophie
 
 ## Roadmap
