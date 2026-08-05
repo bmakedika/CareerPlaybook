@@ -31,6 +31,15 @@ Le Career Playbook poursuit plusieurs objectifs complémentaires :
 
 ## Les principes
 
+Le Career Playbook repose sur des principes qui guident son évolution et garantissent la cohérence de son contenu :
+
+- Documenter les décisions importantes afin de conserver leur contexte et leur justification.
+- Faire évoluer le projet de manière incrémentale, en privilégiant des améliorations régulières plutôt que des changements majeurs.
+- Capitaliser sur chaque expérience, qu'elle soit une réussite, un défi ou un apprentissage.
+- Rechercher la cohérence entre les objectifs professionnels, les projets réalisés et les compétences développées.
+- Considérer la documentation comme une composante essentielle du projet, au même titre que son contenu.
+- Construire un référentiel durable, capable d'accompagner l'évolution de ma carrière sur le long terme.
+
 ## Organisation du dépôt
 
 ## État du projet
