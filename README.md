@@ -4,6 +4,12 @@
 
 ## Présentation
 
+Career Playbook est un projet personnel de documentation et de pilotage de carrière. Il rassemble les réflexions, les décisions, les expériences, les apprentissages et les projets qui construisent progressivement mon identité professionnelle.
+
+Plus qu'un simple portfolio, ce dépôt constitue un référentiel vivant destiné à documenter mon évolution, à capitaliser sur mes expériences et à accompagner un apprentissage continu tout au long de ma carrière.
+
+Le Career Playbook applique à la gestion d'une carrière les principes utilisés dans l'ingénierie logicielle : documentation, traçabilité, amélioration continue et prise de décision explicite.
+
 ## Pourquoi ce projet existe
 
 ## Les objectifs
