@@ -82,7 +82,7 @@ Les prochaines évolutions du Career Playbook s'articulent autour des axes suiva
 - [ ] Documenter les projets professionnels et techniques.
 - [ ] Formaliser les conventions et standards de développement.
 - [ ] Construire un guide de préparation aux entretiens et à l'évolution de carrière.
-- - 🔄 Faire évoluer le Career Playbook au rythme de mon parcours professionnel.
+- 🔄 Faire évoluer le Career Playbook au rythme de mon parcours professionnel.
 
 ## Licence
 
