@@ -74,4 +74,14 @@ Le Career Playbook applique ainsi les principes de l'amélioration continue au d
 
 ## Roadmap
 
+Les prochaines évolutions du Career Playbook s'articulent autour des axes suivants :
+
+- [ ] Structurer la documentation du projet (`docs/`).
+- [ ] Rédiger le Manifeste du Career Playbook.
+- [ ] Mettre en place les Career Decision Records (CDR).
+- [ ] Documenter les projets professionnels et techniques.
+- [ ] Formaliser les conventions et standards de développement.
+- [ ] Construire un guide de préparation aux entretiens et à l'évolution de carrière.
+- - 🔄 Faire évoluer le Career Playbook au rythme de mon parcours professionnel.
+
 ## Licence
