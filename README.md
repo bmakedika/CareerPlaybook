@@ -85,3 +85,7 @@ Les prochaines évolutions du Career Playbook s'articulent autour des axes suiva
 - - 🔄 Faire évoluer le Career Playbook au rythme de mon parcours professionnel.
 
 ## Licence
+
+Ce projet est distribué sous la licence MIT.
+
+Consultez le fichier `LICENSE` pour obtenir le texte complet de la licence.
