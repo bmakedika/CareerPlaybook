@@ -66,6 +66,12 @@ Le dépôt évolue selon une approche incrémentale, où chaque nouvelle contrib
 
 ## Philosophie
 
+Le Career Playbook repose sur une conviction simple : une carrière ne se résume pas aux postes que l'on occupe. Elle se construit progressivement à travers les expériences, les compétences développées, les décisions prises, les projets réalisés et la capacité à donner du sens à chacune de ces étapes.
+
+Dans cette démarche, chaque expérience constitue une opportunité d'apprentissage. Les réussites permettent de mesurer les progrès accomplis, tandis que les défis deviennent des occasions de réflexion, d'amélioration et de développement.
+
+Le Career Playbook applique ainsi les principes de l'amélioration continue au développement professionnel. Observer, documenter, apprendre, partager et progresser constituent les fondements d'une carrière construite avec cohérence, curiosité et intention.
+
 ## Roadmap
 
 ## Licence
